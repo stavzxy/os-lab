@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  printf("Name: ROHAN PODDAR\nUSN:1WA24CS238\n\n");
+  printf("Name: Stawan H. Ruiwale\nUSN:1WA24CS241\n\n");
 
   int n, curr_time = 0, pid[10], at[10], bt[10], remt[10], p[10], ct[10],
          tat[10], wt[10], st[10], rt[10], i, j, completed = 0, choice;
